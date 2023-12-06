@@ -14,7 +14,7 @@
 * Set up SSL/HTTPS with [ACM](https://us-east-1.console.aws.amazon.com/acm/home?region=us-east-1#/welcome). When request the certificate, be sure to select us-east-1 region.
 * Create a [CloudFront](https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-west-2#/distributions) Distribution.
 
-### STEP-BY-STEP GUIDE (after Create [HTML](https://github.com/Ceceskii/web_resume/blob/main/index.html), [CSS](https://github.com/Ceceskii/web_resume/blob/main/styles.css), and an interactive [JavaScript](https://github.com/Ceceskii/web_resume/blob/main/scripts.js)):
+## STEP-BY-STEP GUIDE (after Create [HTML](https://github.com/Ceceskii/web_resume/blob/main/index.html), [CSS](https://github.com/Ceceskii/web_resume/blob/main/styles.css), and an interactive [JavaScript](https://github.com/Ceceskii/web_resume/blob/main/scripts.js)):
 ### 1. Create an S3 Bucket for Your Website:
 * Open the AWS Management Console and navigate to the S3 service.
 * Create a new S3 bucket with a unique name. Ensure that the bucket name matches the domain name you intend to use.
