@@ -16,12 +16,12 @@ const timelineData = [
         description: 'Responsible for providing technical assistance and support to end-users and customers. Played a crucial role in ensuring that technology systems and applications are running smoothly, addressing issues, and helping users navigate technical challenges'
     },
     {
-        date: 'Apr 2021 - Present',
+        date: 'Apr 2021 - Dec 2023',
         title: 'Cloud Network Technology Teaching Assistant | Renton Technical College',
         description: 'Support instructors in the delivery of computer network courses, assist students with understanding course materials, and contribute to the overall success of the cloud network education program.'
     },
     {
-        date: 'Apr 2021 - Present',
+        date: 'Apr 2021 - Dec 2023t',
         title: 'LAN/WAN Lab Techinician | Renton Technical College',
         description: 'Responsible for setting up, maintenance, and troubleshooting of Local Area Networks (LAN) and Wide Area Networks (WAN) within our laboratory environment.'
     },
