@@ -1,6 +1,16 @@
 document.addEventListener('DOMContentLoaded', function() {
 const timelineData = [
     {
+        date: 'May 2024- Aug 2024',
+        title: 'SysAdmin | PACCAR',
+        description: 'Responsible for monitoring network performance and assess network infrastructure components. Administer user access permissions, ensuring compliance with security best practice, and implementing automation tools and scripts to enhance efficiency and streamline repetitive tasks'
+    },
+    {
+        date: 'December 2023- May 2024',
+        title: 'College Innovation Specialist | Renton Technical College',
+        description: 'Responsible for exploring and recognizing emerging trends and technologies in the field of education. Collaborating closely with faculty, administrators, and various stakeholders to comprehend their needs and address challenges.'
+    },
+  {
         date: 'Oct 2022- Jul 2023',
         title: 'Technical Support Analyst | Renton Technical College',
         description: 'Responsible for providing technical assistance and support to end-users and customers. Played a crucial role in ensuring that technology systems and applications are running smoothly, addressing issues, and helping users navigate technical challenges'
@@ -16,9 +26,9 @@ const timelineData = [
         description: 'Responsible for setting up, maintenance, and troubleshooting of Local Area Networks (LAN) and Wide Area Networks (WAN) within our laboratory environment.'
     },
     {
-        date: 'Feb 2008 - Jun 2018',
+        date: 'Feb 2003 - Jun 2018',
         title: 'Global Media Relations Legal Advisor | Booking.com',
-        description: 'Played a critical role in providing legal counsel on media-related matters, ensuring compliance with relevant laws, and mitigating legal risks associated with our organization\'s media activities..'
+        description: 'Played a critical role in providing legal counsel on media-related matters for EU and APAC, ensuring compliance with relevant laws, and mitigating legal risks associated with our organization\'s media activities..'
     }
 ];
 
